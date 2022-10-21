@@ -1,7 +1,7 @@
-Foo
-==============================
+ **Project Title**
 
-Foo Foo
+
+
 
 Project Organization
 ------------
