@@ -1,7 +1,21 @@
- **Project Title**
+ **1. Project Title**
+  - Estimating the likelihood of a product matching its description on Amazon based on product reviews.
 
+ **2. Research Question**
+  - How do we get the estimation of the likelihood from the sentimental analysis of product reviews. 
 
+ **3. 1-page justification**
+  - See the docx file in the repo. 
 
+ **4. Data collection strategy**
+  - We used already existing datasets from papers who have investigated similar research questions/have worked with similar datasets. 
+ 
+ **5. Codebook** 
+  - Check the repo
+ 
+ **6. Dataset**
+  - The full 30gb dataset has not been provided to us by the people who own the dataset yet, and for now, we are including just a smaller dataset which was provided by them. 
+ 
 
 Project Organization
 ------------
