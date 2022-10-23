@@ -1,0 +1,12 @@
+Variable_name,Format,Variable_description,,Missing val,Collection method,Value indicating missing data,Value indicating inapplicable data format
+reviewerID,alphanumeric,ID of the reviewer,,missingid,Scraping through every ID of each review on Amazon,-1,-100
+asin,numeric,ID of the product,,0,Scraping through the product ID on amazon,-2,-200
+reviewerName,str,name of the reviewer,,undefined,Scraping,-3,-300
+vote,bool,"people can upvote a review and this variable shows the number of upvotes ""helpful"" this review got",,,Scraping,-4,-400
+style,,"dictionary that shows the metadata of the product, e.g., ""Format"" is ""Hardcover""",,,Undefined,-5,-500
+reviewText,string,the review itself in the text format,,,Scraping,-6,-600
+overall,float,the overall rating this product ,,NA,Scraping,-7,-700
+summary,string,summary of the review,,,Scraping,-8,-800
+unixReviewTime,,time of the review in unix timestamp format,,,Scraping,-9,-900
+reviewTime,Date,time of the review unformatted,,,Scraping,-10,-1000
+image,img,images that users post after they have received the product,,,Scraping,-11,-1100
